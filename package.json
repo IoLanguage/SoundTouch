@@ -1,0 +1,15 @@
+{
+  "name":         "SoundTouch",
+  "version":      "0.1",
+  "description":  "Used to change the tempo and/or pitch of an audio stream.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["SoundTouch"],
+  "dependencies": {
+    "libs":     ["SoundTouch"],
+    "headers":  ["soundtouch/SoundTouch.h"],
+    "protos":   [],
+    "packages": []
+  }
+}
